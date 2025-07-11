@@ -1,4 +1,4 @@
-# Blood Transfusion Application
+# Blood Transfusion Compatability Application
 
 This is an application that will predict the transfusion success rate based on the Donor's Blood Type and Rh Type. 
 
